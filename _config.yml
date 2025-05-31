@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Suzhan"
 title_separator          : "-"
 name                     : &name "suzhan"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "suzhan202305/suzhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "suzhan.png"
+  avatar           : "profile.png"
   name             : "Suzhan"
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Science and Technology"
